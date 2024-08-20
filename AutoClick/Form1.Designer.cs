@@ -40,9 +40,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(22, 62);
+            this.button1.Location = new System.Drawing.Point(22, 68);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(78, 40);
+            this.button1.Size = new System.Drawing.Size(78, 34);
             this.button1.TabIndex = 0;
             this.button1.Text = "Auto Click";
             this.button1.UseVisualStyleBackColor = true;
@@ -81,7 +81,7 @@
             // numericUpDown1
             // 
             this.numericUpDown1.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.numericUpDown1.Location = new System.Drawing.Point(106, 62);
+            this.numericUpDown1.Location = new System.Drawing.Point(106, 68);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             1000,
             0,
@@ -106,7 +106,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(232, 65);
+            this.label4.Location = new System.Drawing.Point(232, 68);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(109, 28);
             this.label4.TabIndex = 5;
