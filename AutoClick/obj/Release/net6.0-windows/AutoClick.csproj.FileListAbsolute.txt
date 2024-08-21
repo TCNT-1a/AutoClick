@@ -1,0 +1,17 @@
+C:\Users\n\Documents\Project\AutoClick\AutoClick\bin\Release\net6.0-windows\AutoClick.exe
+C:\Users\n\Documents\Project\AutoClick\AutoClick\bin\Release\net6.0-windows\AutoClick.deps.json
+C:\Users\n\Documents\Project\AutoClick\AutoClick\bin\Release\net6.0-windows\AutoClick.runtimeconfig.json
+C:\Users\n\Documents\Project\AutoClick\AutoClick\bin\Release\net6.0-windows\AutoClick.dll
+C:\Users\n\Documents\Project\AutoClick\AutoClick\bin\Release\net6.0-windows\AutoClick.pdb
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.csproj.AssemblyReference.cache
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.Form1.resources
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.csproj.GenerateResource.cache
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.AssemblyInfoInputs.cache
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.AssemblyInfo.cs
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.csproj.CoreCompileInputs.cache
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.dll
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\refint\AutoClick.dll
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.pdb
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\AutoClick.genruntimeconfig.cache
+C:\Users\n\Documents\Project\AutoClick\AutoClick\obj\Release\net6.0-windows\ref\AutoClick.dll
