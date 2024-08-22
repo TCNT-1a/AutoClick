@@ -47,9 +47,13 @@
             N = (int)numericUpDown1.Value;
             Thread.Sleep(5000);
             //MouseUtils.SimulateClick(X,Y);
+            
             for(int i = 0; i < N; i++)
             {
-                MouseUtils.ClickAtPosition(X, Y);
+                Random r = new Random();
+                int n = r.Next(1, 5);
+                int m = r.Next(1, 5);
+                MouseUtils.ClickAtPosition(X+n, Y+m);
                 Thread.Sleep(500);
             }
             
